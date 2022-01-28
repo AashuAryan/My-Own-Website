@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+}
+
+* {
+    border: solid;
+}
+.Header{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+}
+.Grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Footer{
+    display:flex;
+    justify-content: flex-end;
+}
+.Pizza{
+    background-color: chocolate;
+    display:flex;
+    justify-content: space-evenly;
+}
